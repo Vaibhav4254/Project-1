@@ -1,1 +1,1 @@
-# Project-1
+# Retail Sales Analysis SQL Project
