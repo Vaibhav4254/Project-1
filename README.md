@@ -93,7 +93,7 @@ FROM retail_sales
 GROUP BY 1
 ```
 4. Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category.:
-```
+```python
 SELECT
     ROUND(AVG(age), 2) as avg_age
 FROM retail_sales
